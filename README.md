@@ -1,4 +1,4 @@
-# 21BCE1157_Digital_Assignment_3
+# 21BCE1157 Digital Assignment_3
 
  ## How to run: -
 
